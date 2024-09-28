@@ -1,4 +1,4 @@
-![Image from Imgur](https://imgur.com/SQCeP1G.gif)
+![GIF from Imgur](https://i.imgur.com/GOXfF7wh.gif)
 
 
 ## GitHub Stats
