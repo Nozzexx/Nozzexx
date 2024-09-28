@@ -1,4 +1,4 @@
-![Funny dog gif](https://i.imgur.com/PUYwQbU.gif)
+![Funny dog gif](https://imgur.com/GOXfF7w)
 
 
 ## GitHub Stats
