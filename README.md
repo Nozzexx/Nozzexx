@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/23b8a28c-1ea9-4669-ba50-189a6e86558e)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Hi, I'm Josh%20🖥&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 
 ## GitHub Stats
