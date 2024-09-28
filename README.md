@@ -8,7 +8,7 @@ I'm a Software Engineering student at the University of Texas at Dallas, passion
 - 🎓 Pursuing a B.S.E in Software Engineering at UT Dallas
 - 💻 Enthusiastic about game development, AI, and full-stack programming
 - 🔍 Open to roles in: Software Development, Game Programming, AI/ML Engineering
-- 🌎 Located in the Dallas-Fort Worth Metroplex, open to remote opportunities, willing to relocate
+- 🌎 Located in the Dallas-Fort Worth Metroplex, open to in-office or remote opportunities, willing to relocate
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
