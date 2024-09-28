@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Nozzexx%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+![Funny dog gif](https://i.imgur.com/PUYwQbU.gif)
 
 
 ## GitHub Stats
